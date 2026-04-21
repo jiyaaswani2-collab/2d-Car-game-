@@ -1,7 +1,4 @@
-# 2d-Car-game-
-A  2D Car Racing game built with C++ and OpenGL/GLUT featuring obstacle avoidance, score tracking, and smooth 2D animations.
-
-# 2D Turbo Racer 🏎️
+# 2D Car-game-🏎️
 
 A classic 2D top-down car racing game built using **C++** and the **OpenGL/GLUT** library. Navigate through traffic, avoid collisions, and aim for the high score!
 
